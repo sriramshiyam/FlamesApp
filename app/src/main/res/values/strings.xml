@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flames Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_name_1">Enter Name 1</string>
+    <string name="enter_name_2">Enter Name 2</string>
+    <string name="calculate">Calculate</string>
+    <string name="about">Flames Calculator\nVersion 1.0.0\nFind your partner relationship with you.\nWhat type of relationship might be with you.</string>
+</resources>
